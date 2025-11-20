@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="ex5digital logo">
+  <rect width="120" height="120" rx="20" fill="#0b0b0b"/>
+  <g transform="translate(12,18)">
+    <path d="M8 28 L72 28 L56 92 L24 92 Z" fill="#1b1b1b"/>
+  </g>
+  <text x="18" y="108" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="22" fill="#6f6f6f">ex5</text>
+</svg>
